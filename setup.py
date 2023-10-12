@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Chicken-Disease-Classifiaction"
+REPO_NAME = "Chicken-Disease-Classification"
 AUTHOR_USER_NAME = "Shahequa"
-SRC_REPO = "ChickenDiseaseClassifiaction"
+SRC_REPO = "ChickenDiseaseClassification"
 AUTHOR_EMAIL = "tsmodabbera017@gmail.com"
 
 setuptools.setup(
