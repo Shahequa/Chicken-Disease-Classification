@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Shahequa_Analytics/Projects/Chicken-Disease-Classification/mlruns/0/bef5ce03f40b459d9f1ba36eeb68f6ed/artifacts
+end_time: 1698501951326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bef5ce03f40b459d9f1ba36eeb68f6ed
+run_name: funny-stag-10
+run_uuid: bef5ce03f40b459d9f1ba36eeb68f6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698501943412
+status: 3
+tags: []
+user_id: Nabigh

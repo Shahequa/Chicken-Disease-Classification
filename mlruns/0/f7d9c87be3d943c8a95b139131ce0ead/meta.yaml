@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Shahequa_Analytics/Projects/Chicken-Disease-Classification/mlruns/0/f7d9c87be3d943c8a95b139131ce0ead/artifacts
+end_time: 1698503727661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7d9c87be3d943c8a95b139131ce0ead
+run_name: nervous-bee-744
+run_uuid: f7d9c87be3d943c8a95b139131ce0ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698503717765
+status: 3
+tags: []
+user_id: Nabigh

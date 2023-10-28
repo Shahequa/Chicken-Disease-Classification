@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Shahequa_Analytics/Projects/Chicken-Disease-Classification/mlruns/0/bd9beeb9e1f843ec9016520b48fc0da0/artifacts
+end_time: 1698502670646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd9beeb9e1f843ec9016520b48fc0da0
+run_name: shivering-rook-730
+run_uuid: bd9beeb9e1f843ec9016520b48fc0da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698502661656
+status: 3
+tags: []
+user_id: Nabigh
